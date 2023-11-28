@@ -1,0 +1,59 @@
+{
+  "AdvertisingAccountStatuses": {
+    "active": "Active",
+    "blocked": "Blocked",
+    "created": "Created",
+    "declined": "Declined",
+    "deleted": "Deleted",
+    "pending": "Pending"
+  },
+  "AdvertisingFilteringOptions": {
+    "account_name": "Account name",
+    "balance": "Balance",
+    "created_at": "Created at",
+    "spent": "Spent yesterday"
+  },
+  "DocType": {
+    "act": "Act",
+    "invoice": "Invoice"
+  },
+  "Services": {
+    "vkads": "VK Ads",
+    "vkontakte": "VK",
+    "mytarget": "MyTarget",
+    "google": "Google Ads",
+    "yandex": "Yandex Direct"
+  },
+  "DocumentsDeliveryTypes": {
+    "by_email": "By courier",
+    "in_office": "In office"
+  },
+  "EventIdTypes": {
+    "1": "Deposit",
+    "10": "Manual deposit",
+    "11": "Manual Cashback deposit",
+    "12": "Refund",
+    "13": "Refund (to bonus account)",
+    "14": "Refund from AA to BA balance",
+    "15": "Refund from AA to BA cashback balance",
+    "16": "Commision",
+    "17": "Cashback from commission",
+    "2": "Money transfer",
+    "3": "Withdraw",
+    "4": "Penalty",
+    "5": "Advertising",
+    "6": "Cashback",
+    "7": "Deposit (from bonus account)",
+    "8": "Advertising (from cashback balance)",
+    "9": "Cashback from deposit"
+  },
+  "HelpdeskRequestStatuses": {
+    "1": "OPEN",
+    "3": "NEEDS_INFO",
+    "4": "CLOSED"
+  },
+  "ReceiptDeliveryTypes": {
+    "mail": "EMAIL",
+    "phone": "SMS"
+  }
+}

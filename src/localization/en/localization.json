@@ -1,0 +1,422 @@
+{
+  "MAPS": {},
+  "SHARED": {
+    "privacy_1": "By proceeding, you agree to",
+    "privacy_2": "User Agreement",
+    "and": "and",
+    "privacy_3": "Privacy Policy",
+    "no_data": "No data available"
+  },
+  "SCREEN_SIGN_UP": {
+    "title": "Sign up",
+    "subtitle": "Check in \n To use the app",
+    "emailInputLabel": "Email",
+    "phoneInputLabel": "Mobile phone",
+    "passwordInputLabel": "Password",
+    "passwordLengthError": "Minimum 6 characters",
+    "passwordDigitError": "Minimum 1 digit",
+    "passwordLowercaseError": "Minimum 1 lowercase letter",
+    "passwordUppercaseError": "At least 1 capital letter",
+    "repeatPasswordInputLabel": "Repeat the password",
+    "personRadioValue": "I will work as an individual",
+    "organizationRadioValue": "I will work as a legal entity. face",
+    "actionButtonTitle": "Register",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Log in",
+    "repeatedPasswordVerifiactionError": "Passwords don't match",
+    "emailVerificationError": "Check the correctness of the entered mail",
+    "phoneVerificationError": "Make sure that the phone number you entered is correct",
+    "accountTypeVerificationError": "Choose the format of work"
+  },
+  "SCREEN_SIGN_IN": {
+    "title": "Log in",
+    "subtitle": "Sign in to use the app",
+    "emailInputLabel": "Email",
+    "forgotPassword": "Forgot your password?",
+    "passwordInputLabel": "Password",
+    "passwordLengthError": "Minimum 6 characters",
+    "passwordDigitError": "Minimum 1 digit",
+    "passwordLowercaseError": "Minimum 1 lowercase letter",
+    "passwordUppercaseError": "At least 1 capital letter",
+    "actionButtonTitle": "Log in",
+    "dontHaveAccount": "Don't have an account?",
+    "signUp": "Register"
+  },
+  "SCREEN_STATISTICS": {
+    "GroupChartDisplayOptions": {
+      "Day": "Day",
+      "Week": "Week",
+      "Month": "Month"
+    },
+    "startDateLabel": "Date since",
+    "endDateLabel": "Date by",
+    "ads": "Advertisement",
+    "noData": "No data",
+    "deposits": "Amount of replenishment",
+    "withdraws": "Outlay",
+    "cashback": "Cashback",
+    "goBack": "Go back",
+    "spentsByAccounts": "Account Costs",
+    "spentTrends": "Dynamics of advertising costs",
+    "noDataTitle": "There is no data for statistics in the specified time interval",
+    "noDataSubtitle": "Change the time interval to get statistics"
+  },
+  "SCEEN_STUB_NO_BUSINESS_ACCOUNT": {
+    "message": "Add a business account for further interaction with the application",
+    "actionButton": "Create a business account",
+    "logOut": "Sign out of your account"
+  },
+  "SCREEN_STUBS_NOT_VERIFIED": {
+    "title": "Complete the verification",
+    "message": "For further interaction with the application, you need to confirm your e-mail",
+    "actionButton": "Create a business account",
+    "logOut": "Sign out of your account",
+    "toastResendSuccess": "The verification email has been successfully sent"
+  },
+  "SCREEN_RESTORE_PASSWORD_CODE": {
+    "title": "Enter the code from the email",
+    "subtitle": "We sent an email with a code to {email}",
+    "codeInputLabel": "The code from the letter",
+    "actionButton": "Continue"
+  },
+  "SCREEN_RESTORE_PASSWORD_EMAIL": {
+    "title": "Password recovery",
+    "subtitle": "Specify the e-mail. The email address to which the account is linked, we will send a code to create a new password.",
+    "emailInputLabel": "Email",
+    "actionButton": "Send",
+    "rememberPassword": "Remember your password?",
+    "emailVerificationError": "Check the correctness of the entered mail",
+    "signIn": "Log in"
+  },
+  "SCREEN_RESTORE_PASSWORD_MAIN": {
+    "title": "Enter your new password",
+    "subtitle": "The password must contain at least 6 characters, at least one number, and at least one capital letter.",
+    "passwordInputLabel": "Password",
+    "passwordLengthError": "Minimum 6 characters",
+    "passwordDigitError": "Minimum 1 digit",
+    "passwordLowercaseError": "Minimum 1 lowercase letter",
+    "passwordUppercaseError": "At least 1 capital letter",
+    "repeatPasswordInputLabel": "Repeat the password",
+    "actionButton": "Send",
+    "repeatedPasswordVerifiactionError": "Passwords don't match"
+  },
+  "COMPONENT_OBSERVER": {
+    "user": "User",
+    "subusers": "Rooms"
+  },
+  "SCREEN_OBSERVERS_LIST_VK_ADS": {
+    "headerTitle": "Sub accounts",
+    "subtitle": "VK Advertising",
+    "noAccountsErrorTitle": "No additional accounts",
+    "noAccountsErrorSubtitle": "You can create an additional account by clicking on the \"+\" icon at the top right of the screen"
+  },
+  "SCREEN_OBSERVERS_VK_ADS_CRUD": {
+    "deleteAccountDialog": {
+      "title": "Confirm the action",
+      "text": "Are you sure you want to delete an additional account?",
+      "confirmButton": "Confirm",
+      "declineButton": "Cancel"
+    },
+    "selectAccountsModal": {
+      "title": "Select Ad Accounts"
+    },
+    "headerTitle": "Adding an account",
+    "headerTitleEdit": "Edit your account",
+    "accountInputTitle": "1. Enter your VK Ads user ID",
+    "addAccountsTitle": "2. Add ad accounts",
+    "addAccountButton": "Add an ad account",
+    "subtitle": "VK Advertising",
+    "actionButtonEdit": "Save changes",
+    "actionButton": "Add an account",
+    "toastCreateSuccess": "The request to create an additional account has been successfully submitted",
+    "toastDeleteSuccess": "An additional account has been successfully deleted",
+    "toastEditSuccess": "Your account change request has been successfully submitted"
+  },
+  "SCREEN_OBSERVERS_LIST_VK": {
+    "headerTitle": "Sub accounts",
+    "subtitle": "vk.com",
+    "noAccountsErrorTitle": "No additional accounts",
+    "noAccountsErrorSubtitle": "You can create an additional account by clicking on the \"+\" icon at the top right of the screen"
+  },
+  "SCREEN_OBSERVERS_VK_CRUD": {
+    "deleteAccountDialog": {
+      "title": "Confirm the action",
+      "text": "Are you sure you want to delete an additional account?",
+      "confirmButton": "Confirm",
+      "declineButton": "Cancel"
+    },
+    "selectAccountsModal": {
+      "title": "Select Ad Accounts"
+    },
+    "headerTitle": "Adding an account",
+    "headerTitleEdit": "Edit your account",
+    "accountInputTitle": "1. Enter the link to the VK user<",
+    "addAccountsTitle": "2. Add ad accounts",
+    "addAccountButton": "Add an ad account",
+    "accountInputLabel": "Ссылка",
+    "subtitle": "VK Advertising",
+    "actionButtonEdit": "Save changes",
+    "actionButton": "Add an account",
+    "toastCreateSuccess": "The request to create an additional account has been successfully submitted",
+    "toastDeleteSuccess": "An additional account has been successfully deleted",
+    "toastEditSuccess": "Your account change request has been successfully submitted"
+  },
+  "SCREEN_HELPDESK_CHAT": {
+    "headerTitle": "Chat",
+    "enterMessage": "Enter your message"
+  },
+  "SCREEN_HELPDESK": {
+    "noDataErrorSubtitle": "To create a request, click on the \"+\" icon at the top right of the screen",
+    "noDataTitle": "No support calls",
+    "openIssues": "Open Applications",
+    "archive": "Archive"
+  },
+  "SCREEN_EVENTS": {
+    "noSearchResultsErrorTitle": "Nothing found",
+    "noSearchResultsErrorSubtitle": "Try changing your filtering or search settings",
+    "noTransactionsTitle": "No transactions",
+    "noTransactionsSubtitle": "Transactions will be displayed here during the use of the application",
+    "searchInputLabel": "Search",
+    "filterModalTitle": "Select Filtering Status",
+    "filterInputLabel": "Event type",
+    "startDateLabel": "Date since",
+    "endDateLabel": "Date by",
+    "transactionSummary": "Total amount of transactions:"
+  },
+  "COMPONENT_DOCUMENT": {
+    "fileNumber": "File Number:",
+    "extension": "Type:",
+    "download": "Download"
+  },
+  "SCREEN_DOCUMENTS": {
+    "noSearchResultsErrorTitle": "Nothing found",
+    "noSearchResultsErrorSubtitle": "Try changing your filtering or search settings",
+    "noDocumentsTitle": "No documents",
+    "noDocumentsSubtitle": "Documents will be displayed here during the use of the application",
+    "searchInputLabel": "Search",
+    "filterModalTitle": "Select Filtering Status",
+    "filterInputLabel": "Event type",
+    "startDateLabel": "Date since",
+    "endDateLabel": "Date by",
+    "transactionSummary": "Total amount of transactions:"
+  },
+  "SCREEN_DEPOSIT_ADVERTISING_ACCOUNT": {
+    "title": "Replenishment of the advertising account",
+    "summaryTitle": "Replenishment amount",
+    "VAT": "VAT",
+    "commision": "Commission",
+    "totalSum": "The total amount of credits",
+    "depositFrom": "1. Where to translate",
+    "value": "Balance in RUB",
+    "cashbackValue": "Cashback in RUB",
+    "depositTo": "2. What advertising campaigns to replenish",
+    "accountInputLabel": "Ad account",
+    "depositInputLabel": "Top up your account balance",
+    "depositSubAccountsTitle": "Replenish the balance of advertising companies",
+    "selectAll": "Select All",
+    "footer": {
+      "totalSum": "Total",
+      "actionButton": "Save"
+    }
+  },
+  "COMPONENT_DEPOSIT_ADVERTISING_ACCOUNT_CAMPAIGN": {
+    "balance": "Remnant",
+    "amount": "Sum"
+  },
+  "SCREEN_CREATE_VK_ADS_ACCOUNT": {
+    "title": "Registration in VK Ads",
+    "step1_part1": "1. You need to log in to the system",
+    "step1_part2": "via VK ID.",
+    "step2": "2. After logging in via VK ID, you are offered to create a new account or use the my target advertising account. You need to select \"Create a new account\".",
+    "step3": "3. In the registration form that opens, where the correct parameters are already automatically selected, you need to fill in your mail.",
+    "step4": "4. Next, click \"Create an account\"",
+    "step5": "5. You will receive a letter confirming registration to the specified mail, where you will need to confirm it.",
+    "step6": "6. In the created profile, go to \"Settings\", in the main settings your id will be indicated.",
+    "step7": "7. Copy this id and paste it into the ID field in the ADSWallet Personal Account to create a new advertising account.",
+    "prerequisite": "You can only add a new ad account, without campaigns and with a zero balance!"
+  },
+  "SCREEN_CREATE_MY_TARGET_ACCOUNT": {
+    "title": "Registration in MyTarget",
+    "step1": "To register an advertiser's account with MyTarget, you need to go to the website",
+    "step2": "In the window that opens, log in through one of the presented social networks or register a new login by e-mail or phone number.",
+    "step3": "Next, you will be taken to the ad account registration page:",
+    "decsription": "1. Select the interface language – \"Russian (RU)\"\n2. Select the country \"Russia\"\n3. Select the \"Advertiser\" client account type\n4. Select the currency on the \"Russian ruble\" interface\n5. Select the legal status \"Individual\"\n6. If necessary, provide an email address\n7. Read the terms of the offer and check the box\n8.Click on the \"Complete registration\" button"
+  },
+  "SCREEN_CASHBACK_AND_COMMISSION": {
+    "title": "Cashback & Commission",
+    "cashbackAdvertisingTitle": "For the promotion of advertising",
+    "cashbackAdvertisingSubtitle": "It is charged once a day for the total amount that was spent on advertising",
+    "cashbackDepositTitle": "To replenish the balance",
+    "cashbackDepositSubtitle": "It is charged with each replenishment, for any amount",
+    "cashbackCommissionSubtitle": "It is charged once a day for the total amount that was spent on advertising",
+    "cashbackCommissionTitle": "Cashback on commission",
+    "commissionTitle": "Commission",
+    "withdrawsCurrentMonth": "Debited for the current month",
+    "depositsCurrentMonth": "Accrued for the current month"
+  },
+  "SCREEN_ADVERTISING_MANAGEMENT": {
+    "ACCOUNT_ACTIONS": {
+      "MY_TARGET": {
+        "open": "Go to myTarget",
+        "refund": "Refund"
+      },
+      "VK": {
+        "refund": "Refund"
+      },
+      "VK_ADS": {
+        "refund": "Refund"
+      }
+    },
+    "sortModal": {
+      "title": "Sorting"
+    },
+    "filterModal": {
+      "title": "Filter by status"
+    },
+    "noSearchResultsErrorTitle": "Nothing found",
+    "noSearchResultsErrorSubtitle": "Try changing your filtering or search settings",
+    "noAccountsErrorTitle": "No accounts",
+    "noAccountsErrorSubtitle": "Add an account to manage your ads",
+    "searchInputLabel": "Search"
+  },
+  "COMPONENT_ADVERTISING_ACCOUNT": {
+    "name": "Account:",
+    "status": "Status:",
+    "balance": "Remnant:",
+    "spent": "Consumption yesterday:",
+    "description": "Description:",
+    "showCampaigns": "Browse Campaigns",
+    "actionCheck": "Check",
+    "actionDeposit": "Replenish"
+  },
+  "COMPONENT_SERVICE_CARD": {
+    "balance": "Remnant:"
+  },
+  "SCREEN_ADVERTISING_ACCOUNT_CAMPAIGNS": {
+    "title": "Viewing campaigns"
+  },
+  "COMPONENT_ADVERTISING_ACCOUNT_CAMPAIGN": {
+    "totalLimit": "Total limit:",
+    "spent": "Spent:",
+    "clicks": "Clicks:",
+    "forecast": "Forecast:"
+  },
+  "MODAL_CREATE_GOOGLE_ACCOUNT": {
+    "title": "Adding an account",
+    "accountNameLabel": "Google Username",
+    "clientNameLabel": "Tenant name",
+    "actionButton": "Add"
+  },
+  "MODAL_CREATE_MY_TARGET_ACCOUNT": {
+    "title": "Adding an account",
+    "emailLabel": "Email of an individual MyTarget",
+    "clientNameLabel": "Tenant name",
+    "actionButton": "Add",
+    "toGuideScreenLink": "How to register a MyTarget account"
+  },
+  "MODAL_CREATE_VK_ACCOUNT": {
+    "title": "Adding an account",
+    "linkLabel": "Link to vk.com profile",
+    "linkVerificationError": "The value of the field must be a reference",
+    "clientNameLabel": "Tenant name",
+    "actionButton": "Add"
+  },
+  "MODAL_CREATE_VK_ADS_ACCOUNT": {
+    "title": "Adding an account",
+    "idLabel": "ID",
+    "clientNameLabel": "Tenant name",
+    "actionButton": "Add",
+    "toGuideScreenLink": "How to sign up for an account on VK Ads"
+  },
+  "MODAL_CREATE_YANDEX_ACCOUNT": {
+    "title": "Adding an account",
+    "nameLabel": "Username yandex",
+    "nameVerificationError": "The login must consist of Latin characters, start with a letter and end with a letter or number The characters - and can be used. The length of the login is no more than 30 characters",
+    "actionButton": "Add"
+  },
+  "MODAL_CREATE_HELPDESK_REQUEST": {
+    "title": "Create an application",
+    "selectThemeModal": {
+      "title": "Select the subject of the appeal"
+    },
+    "themeInputLabel": "Subject",
+    "nameInputLabel": "Name",
+    "textInputLabel": "Text of the appeal",
+    "actionAdd": "Add",
+    "actionAttachFiles": "Attach files"
+  },
+  "MODAL_REFUND_ADVERTISING_ACCOUNT_BALANCE": {
+    "title": "Refund",
+    "amountInputLabel": "Sum",
+    "maxAmount": "Max. {amount}",
+    "amountVerficationError": "Specify the value of the transfer amount",
+    "transferAllCheckboxLabel": "The total amount",
+    "action": "Translate",
+    "toastSuccess": "The funds were successfully transferred"
+  },
+  "MODAL_EDIT_ADVERTISING_CAMPAIGN_LIMIT": {
+    "title": "Limit change",
+    "selectedCampaignLabel": "Campaign",
+    "serviceLabel": "Platform",
+    "spent": "Spent",
+    "currentTotalLimit": "Current Total Limit",
+    "newLimitInputLabel": "Enter a new total limit",
+    "action": "Change",
+    "toastSuccess": "A request to change limit budgets has been sent"
+  },
+  "MODAL_LIST_ADVERTISING_ACCOUNTS": {
+    "title": "Choose an ad account"
+  },
+  "MODAL_LIST_BUSINESS_ACCOUNTS": {
+    "title": "Choose a business account",
+    "noAccountsErrorTitle": "No business accounts",
+    "noAccountsErrorSubtitle": "Added accounts will be displayed here",
+    "createNewAccount": "+ Create a new one",
+    "action": "Change"
+  },
+  "UTILS_MODAL_ACTIONS": {
+    "title": "Choose an action"
+  },
+  "UTILS_MODAL_DATE_PICKER": {
+    "title": "Choose a date",
+    "cancelText": "Back",
+    "confirmText": "Choose"
+  },
+  "UTILS_MODAL_RADIO": {
+    "select": "Select"
+  },
+  "UTILS_MODAL_SELECT": {
+    "select": "Select"
+  },
+  "BOTTOM_TAB_BAR": {
+    "tabEvents": "Events",
+    "tabStats": "Statistics",
+    "tabDocuments": "Documents",
+    "tabAdvertisment": "Advertisement",
+    "tabHelpdesk": "Support"
+  },
+  "DRAWER": {
+    "businessAccountsLink": "Business accounts",
+    "cashbackAndCommission": "Commission",
+    "additionalAccountsVK": "Additional VK accounts",
+    "additionalAccountsVKAds": "Additional VK ads accounts",
+    "editAccount": "Edit Account",
+    "logOut": "Exit",
+    "BALANCE": {
+      "balance": "Balance, RUB",
+      "cashback": "Cashback, RUB",
+      "deposit": "Top up your balance",
+      "depositAdvertisingAccounts": "Enroll in advertising"
+    }
+  },
+  "DOWNLOAD_SERVICE": {
+    "androidNotificationTitle": "Download {filename}"
+  },
+  "OTHER": {
+    "UnexpectedNetworkError": "An unexpected error occurred while making a network request"
+  },
+  "TOASTS": {
+    "createAdvertismentAccountSuccess": "A request to add has been submitted",
+    "createHelpdeskRequestSuccess": "The appeal has been successfully registered"
+  }
+}

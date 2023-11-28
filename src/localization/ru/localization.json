@@ -1,0 +1,422 @@
+{
+  "MAPS": {},
+  "SHARED": {
+    "privacy_1": "Продолжая, вы соглашаетесь с \n",
+    "privacy_2": "пользовательским соглашением",
+    "and": "и",
+    "privacy_3": "политикой конфиденциальности",
+    "no_data": "Нет данных"
+  },
+  "SCREEN_SIGN_UP": {
+    "title": "Регистрация",
+    "subtitle": "Зарегистрируйтесь, \n чтобы использовать приложение",
+    "emailInputLabel": "Электронная почта",
+    "phoneInputLabel": "Мобильный телефон",
+    "passwordInputLabel": "Пароль",
+    "passwordLengthError": "Минимум 6 символов",
+    "passwordDigitError": "Минимум 1 цифра",
+    "passwordLowercaseError": "Минимум 1 строчная буква",
+    "passwordUppercaseError": "Минимум 1 заглавная буква",
+    "repeatPasswordInputLabel": "Повторите пароль",
+    "personRadioValue": "Буду работать как физ. лицо",
+    "organizationRadioValue": "Буду работать как юр. лицо",
+    "actionButtonTitle": "Зарегистрироваться",
+    "alreadyHaveAccount": "Уже есть аккаунт?",
+    "signIn": "Войти",
+    "repeatedPasswordVerifiactionError": "Пароли не совпадают",
+    "emailVerificationError": "Проверьте правильность введенной почты",
+    "phoneVerificationError": "Проверьте правильность введенного номера телефона",
+    "accountTypeVerificationError": "Выберите формат работы"
+  },
+  "SCREEN_SIGN_IN": {
+    "title": "Войти",
+    "subtitle": "Войдите, чтобы использовать приложение",
+    "emailInputLabel": "Электронная почта",
+    "forgotPassword": "Забыли пароль?",
+    "passwordInputLabel": "Пароль",
+    "passwordLengthError": "Минимум 6 символов",
+    "passwordDigitError": "Минимум 1 цифра",
+    "passwordLowercaseError": "Минимум 1 строчная буква",
+    "passwordUppercaseError": "Минимум 1 заглавная буква",
+    "actionButtonTitle": "Войти",
+    "dontHaveAccount": "Нет аккаунта?",
+    "signUp": "Зарегистрироваться"
+  },
+  "SCREEN_STATISTICS": {
+    "GroupChartDisplayOptions": {
+      "Day": "День",
+      "Week": "Неделя",
+      "Month": "Месяц"
+    },
+    "noData": "Нет данных",
+    "startDateLabel": "Дата с",
+    "endDateLabel": "Дата по",
+    "ads": "Реклама",
+    "deposits": "Сумма пополнений",
+    "withdraws": "Расходы",
+    "cashback": "Кэшбэк",
+    "goBack": "Назад",
+    "spentsByAccounts": "Расходы по аккаунтам",
+    "spentTrends": "Динамика расходов на рекламу",
+    "noDataTitle": "В указанном временном промежутке нет данных для статистики",
+    "noDataSubtitle": "Измените временной промежуток для получения статистики"
+  },
+  "SCEEN_STUB_NO_BUSINESS_ACCOUNT": {
+    "message": "Добавьте бизнесс аккаунт для дальнейшего взаимодействия с приложением",
+    "actionButton": "Создать бизнес аккаунт",
+    "logOut": "Выйти из аккаунта"
+  },
+  "SCREEN_STUBS_NOT_VERIFIED": {
+    "title": "Окончите верификацию",
+    "message": "Для дальнейшего взаимодействия с приложением необходимо подтвердить свой e-mail",
+    "actionButton": "Создать бизнес аккаунт",
+    "logOut": "Выйти из аккаунта",
+    "toastResendSuccess": "Верификационное письмо было успешно отправлено"
+  },
+  "SCREEN_RESTORE_PASSWORD_CODE": {
+    "title": "Введите код из письма",
+    "subtitle": "Мы отправили письмо с кодом на {email}",
+    "codeInputLabel": "Код из письма",
+    "actionButton": "Продолжить"
+  },
+  "SCREEN_RESTORE_PASSWORD_EMAIL": {
+    "title": "Восстановление пароля",
+    "subtitle": " Укажите эл. почту, к которой привязан аккаунт, мы отправим код для создания нового пароля.",
+    "emailInputLabel": "Электронная почта",
+    "actionButton": "Отправить",
+    "rememberPassword": "Вспомнили пароль?",
+    "emailVerificationError": "Проверьте правильность введенной почты",
+    "signIn": "Войти"
+  },
+  "SCREEN_RESTORE_PASSWORD_MAIN": {
+    "title": "Введите новый пароль",
+    "subtitle": "Пароль должен содержать минимум 6 символов, хотя бы одну цифру и хотя бы одну заглавную букву.",
+    "passwordInputLabel": "Пароль",
+    "passwordLengthError": "Минимум 6 символов",
+    "passwordDigitError": "Минимум 1 цифра",
+    "passwordLowercaseError": "Минимум 1 строчная буква",
+    "passwordUppercaseError": "Минимум 1 заглавная буква",
+    "repeatPasswordInputLabel": "Повторите пароль",
+    "actionButton": "Отправить",
+    "repeatedPasswordVerifiactionError": "Пароли не совпадают"
+  },
+  "COMPONENT_OBSERVER": {
+    "user": "Пользователь",
+    "subusers": "Кабинеты"
+  },
+  "SCREEN_OBSERVERS_LIST_VK_ADS": {
+    "headerTitle": "Дополнительные аккаунты",
+    "subtitle": "ВК Реклама",
+    "noAccountsErrorTitle": "Нет дополнительных аккаунтов",
+    "noAccountsErrorSubtitle": "Вы можете создать дополнительный аккаунт нажав на значок \"+\" справа вверху экрана"
+  },
+  "SCREEN_OBSERVERS_VK_ADS_CRUD": {
+    "deleteAccountDialog": {
+      "title": "Подтвердите действие",
+      "text": "Вы действительно хотите удалить дополнительный аккаунт?",
+      "confirmButton": "Подтвердить",
+      "declineButton": "Отмена"
+    },
+    "selectAccountsModal": {
+      "title": "Выберите рекламные аккаунты"
+    },
+    "headerTitle": "Добавление аккаунта",
+    "headerTitleEdit": "Редактирование аккаунта",
+    "accountInputTitle": "1. Введите ID пользователя VK Реклама",
+    "addAccountsTitle": "2. Добавьте рекламные аккаунты",
+    "addAccountButton": "Добавить рекламный аккаунт",
+    "subtitle": "ВК Реклама",
+    "actionButtonEdit": "Сохранить изменения",
+    "actionButton": "Добавить аккаунт",
+    "toastCreateSuccess": "Запрос на создание дополнительного аккаунта успешно отправлен",
+    "toastDeleteSuccess": "Дополнительный аккаунт успешно удален",
+    "toastEditSuccess": "Запрос на изменение аккаунта успешно отправлен"
+  },
+  "SCREEN_OBSERVERS_LIST_VK": {
+    "headerTitle": "Дополнительные аккаунты",
+    "subtitle": "vk.com",
+    "noAccountsErrorTitle": "Нет дополнительных аккаунтов",
+    "noAccountsErrorSubtitle": "Вы можете создать дополнительный аккаунт нажав на значок \"+\" справа вверху экрана"
+  },
+  "SCREEN_OBSERVERS_VK_CRUD": {
+    "deleteAccountDialog": {
+      "title": "Подтвердите действие",
+      "text": "Вы действительно хотите удалить дополнительный аккаунт?",
+      "confirmButton": "Подтвердить",
+      "declineButton": "Отмена"
+    },
+    "selectAccountsModal": {
+      "title": "Выберите рекламные аккаунты"
+    },
+    "headerTitle": "Добавление аккаунта",
+    "headerTitleEdit": "Редактирование аккаунта",
+    "accountInputTitle": "1. Введите ссылку на пользователя VK<",
+    "addAccountsTitle": "2. Добавьте рекламные аккаунты",
+    "addAccountButton": "Добавить рекламный аккаунт",
+    "subtitle": "ВК Реклама",
+    "accountInputLabel": "Ссылка",
+    "actionButtonEdit": "Сохранить изменения",
+    "actionButton": "Добавить аккаунт",
+    "toastCreateSuccess": "Запрос на создание дополнительного аккаунта успешно отправлен",
+    "toastDeleteSuccess": "Дополнительный аккаунт успешно удален",
+    "toastEditSuccess": "Запрос на изменение аккаунта успешно отправлен"
+  },
+  "SCREEN_HELPDESK_CHAT": {
+    "headerTitle": "Чат",
+    "enterMessage": "Введите сообщение"
+  },
+  "SCREEN_HELPDESK": {
+    "noDataErrorSubtitle": "Для создания обращения нажмите на значок \"+\" в правой верхней части экрана",
+    "noDataTitle": "Нет обращений в поддержку",
+    "openIssues": "Открытые заявки",
+    "archive": "Архив"
+  },
+  "SCREEN_EVENTS": {
+    "noSearchResultsErrorTitle": "Ничего не найдено",
+    "noSearchResultsErrorSubtitle": "Попробуйте изменить параметры фильтрации или поиска",
+    "noTransactionsTitle": "Нет транзакций",
+    "noTransactionsSubtitle": "Транзакции будут отображаться здесь в ходе использования приложения",
+    "searchInputLabel": "Поиск",
+    "filterModalTitle": "Выберите статус фильтрации",
+    "filterInputLabel": "Тип события",
+    "startDateLabel": "Дата с",
+    "endDateLabel": "Дата по",
+    "transactionSummary": "Общая сумма операций:"
+  },
+  "COMPONENT_DOCUMENT": {
+    "fileNumber": "Номер файла:",
+    "extension": "Тип:",
+    "download": "Скачать"
+  },
+  "SCREEN_DOCUMENTS": {
+    "noSearchResultsErrorTitle": "Ничего не найдено",
+    "noSearchResultsErrorSubtitle": "Попробуйте изменить параметры фильтрации или поиска",
+    "noDocumentsTitle": "Нет документов",
+    "noDocumentsSubtitle": "Документы будут отображаться здесь в ходе использования приложения",
+    "searchInputLabel": "Поиск",
+    "filterModalTitle": "Выберите статус фильтрации",
+    "filterInputLabel": "Тип события",
+    "startDateLabel": "Дата с",
+    "endDateLabel": "Дата по",
+    "transactionSummary": "Общая сумма операций:"
+  },
+  "SCREEN_DEPOSIT_ADVERTISING_ACCOUNT": {
+    "title": "Пополнение рекламного аккаунта",
+    "summaryTitle": "Сумма пополнения",
+    "VAT": "НДС",
+    "commision": "Коммиссия",
+    "totalSum": "Общая сумма зачислений",
+    "depositFrom": "1. Откуда перевести",
+    "value": "Баланс в RUB",
+    "cashbackValue": "Кэшбэк в RUB",
+    "depositTo": "2. Какие рекламные кампании пополнить",
+    "accountInputLabel": "Рекламный аккаунт",
+    "depositInputLabel": "Пополнить баланс аккаунта",
+    "depositSubAccountsTitle": "Пополнить баланс рекламных компаний",
+    "selectAll": "Выбрать все",
+    "footer": {
+      "totalSum": "Общая сумма",
+      "actionButton": "Сохранить"
+    }
+  },
+  "COMPONENT_DEPOSIT_ADVERTISING_ACCOUNT_CAMPAIGN": {
+    "balance": "Остаток",
+    "amount": "Сумма"
+  },
+  "SCREEN_CREATE_VK_ADS_ACCOUNT": {
+    "title": "Регистрация в VK реклама",
+    "step1_part1": "1. Вам необходимо авторизоваться в системе",
+    "step1_part2": "через ВК ID.",
+    "step2": "2. После авторизации через ВК ID вам предлагают создать новый кабинет или использовать рекламный кабинет my target. Нужно выбрать \"Создать новый кабинет\".",
+    "step3": "3. В открывшейся форме регистрации, где уже автоматически выбраны корректные параметры, нужно заполнить вашу почту.",
+    "step4": "4. Далее нажимаем \"Создать кабинет\"",
+    "step5": "5. На указанную почту вам придет письмо с подтверждением регистрации, где вам ее нужно будет подтвердить.",
+    "step6": "6. В созданном профиле заходим в \"Настройки\", в основных настройках будет указан ваш id.",
+    "step7": "7. Копируем данный id и вставляем в поле ID в Личном кабинете ADSWallet для создания нового рекламного аккаунта. ",
+    "prerequisite": "Добавить можно только новый рекламный аккаунт, без кампаний и с нулевым балансом!"
+  },
+  "SCREEN_CREATE_MY_TARGET_ACCOUNT": {
+    "title": "Регистрация в MyTarget",
+    "step1": "Чтобы зарегистрировать аккаунт рекламодателя в MyTarget, необходимо зайти на сайт",
+    "step2": "В открывшемся окне авторизуйтесь через одну из представленных социальных сетей или зарегистрируйте новый логин на электронную почту или номер телефона.",
+    "step3": "Далее вы попадете на страницу регистрации рекламного аккаунта:",
+    "decsription": "\n1. Выберите язык интерфейса–\"Русский(RU)\"\n2. Выберите страну \"Россия\"\n3. Выберите тип клиентского аккаунта \"Рекламодатель\"\n4. Выберите валюту интерфейсе \"Российский рубль\"\n5. Выберите юридический статус \"Физическое лицо\"\n6. При необходимости, укажите адрес электронной почты\n7.Ознакомьтесь с условиями оферты и поставьте галочку\n8.Нажмите на кнопку \"Завершить регистрацию\"\n"
+  },
+  "SCREEN_CASHBACK_AND_COMMISSION": {
+    "title": "Кэшбэк и коммисия",
+    "cashbackAdvertisingTitle": "На открутку рекламы",
+    "cashbackAdvertisingSubtitle": "Начисляется раз в сутки на общую сумму, которая была потрачена на рекламу",
+    "cashbackDepositTitle": "На пополнение баланса",
+    "cashbackDepositSubtitle": "Начисляется при каждом пополнении, на любую сумму",
+    "cashbackCommissionSubtitle": "Начисляется раз в сутки на общую сумму, которая была потрачена на рекламу",
+    "cashbackCommissionTitle": "Кэшбек по комиссии",
+    "commissionTitle": "Коммисия",
+    "withdrawsCurrentMonth": "Списано за текущий месяц",
+    "depositsCurrentMonth": "Начислено за текущий месяц"
+  },
+  "SCREEN_ADVERTISING_MANAGEMENT": {
+    "ACCOUNT_ACTIONS": {
+      "MY_TARGET": {
+        "open": "Перейти в myTarget",
+        "refund": "Возврат средств"
+      },
+      "VK": {
+        "refund": "Возврат средств"
+      },
+      "VK_ADS": {
+        "refund": "Возврат средств"
+      }
+    },
+    "sortModal": {
+      "title": "Сортировка"
+    },
+    "filterModal": {
+      "title": "Фильтр по статусу"
+    },
+    "noSearchResultsErrorTitle": "Ничего не найдено",
+    "noSearchResultsErrorSubtitle": "Попробуйте изменить параметры фильтрации или поиска",
+    "noAccountsErrorTitle": "Нет аккаунтов",
+    "noAccountsErrorSubtitle": "Добавьте аккаунт, чтобы управлять рекламой",
+    "searchInputLabel": "Поиск"
+  },
+  "COMPONENT_ADVERTISING_ACCOUNT": {
+    "name": "Аккаунт:",
+    "status": "Статус:",
+    "balance": "Остаток:",
+    "spent": "Расход вчера: ",
+    "description": "Описание:",
+    "showCampaigns": "Просмотреть кампании",
+    "actionCheck": "Проверить",
+    "actionDeposit": "Пополнить"
+  },
+  "COMPONENT_SERVICE_CARD": {
+    "balance": "Остаток:"
+  },
+  "SCREEN_ADVERTISING_ACCOUNT_CAMPAIGNS": {
+    "title": "Просмотр кампаний"
+  },
+  "COMPONENT_ADVERTISING_ACCOUNT_CAMPAIGN": {
+    "totalLimit": "Общий лимит: ",
+    "spent": "Потрачено: ",
+    "clicks": "Клики: ",
+    "forecast": "Прогноз: "
+  },
+  "MODAL_CREATE_GOOGLE_ACCOUNT": {
+    "title": "Добавление аккаунта",
+    "accountNameLabel": "Имя пользователя Google",
+    "clientNameLabel": "Имя клиента",
+    "actionButton": "Добавить"
+  },
+  "MODAL_CREATE_MY_TARGET_ACCOUNT": {
+    "title": "Добавление аккаунта",
+    "emailLabel": "Email физ. лица MyTarget",
+    "clientNameLabel": "Имя клиента",
+    "actionButton": "Добавить",
+    "toGuideScreenLink": "Как зарегистрировать аккаунт MyTarget"
+  },
+  "MODAL_CREATE_VK_ACCOUNT": {
+    "title": "Добавление аккаунта",
+    "linkLabel": "Ссылка на профиль vk.com",
+    "linkVerificationError": "Значение поля должно быть ссылкой",
+    "clientNameLabel": "Имя клиента",
+    "actionButton": "Добавить"
+  },
+  "MODAL_CREATE_VK_ADS_ACCOUNT": {
+    "title": "Добавление аккаунта",
+    "idLabel": "ID",
+    "clientNameLabel": "Имя клиента",
+    "actionButton": "Добавить",
+    "toGuideScreenLink": "Как зарегистрировать аккаунт на VK Реклама"
+  },
+  "MODAL_CREATE_YANDEX_ACCOUNT": {
+    "title": "Добавление аккаунта",
+    "nameLabel": "Имя пользователя yandex",
+    "nameVerificationError": "Логин должен состоять из латинских символов, начинаться с буквы и заканчиваться буквой или цифрой Могут использоваться символы - и . Длина логина не более 30 символов",
+    "actionButton": "Добавить"
+  },
+  "MODAL_CREATE_HELPDESK_REQUEST": {
+    "title": "Создать заявку",
+    "selectThemeModal": {
+      "title": "Выберите тему обращения"
+    },
+    "themeInputLabel": "Тема",
+    "nameInputLabel": "Название",
+    "textInputLabel": "Текст обращения",
+    "actionAdd": "Добавить",
+    "actionAttachFiles": "Прикрепить файлы"
+  },
+  "MODAL_REFUND_ADVERTISING_ACCOUNT_BALANCE": {
+    "title": "Возврат средств",
+    "amountInputLabel": "Сумма",
+    "maxAmount": "Макс. {amount}",
+    "amountVerficationError": "Укажите значение суммы перевода",
+    "transferAllCheckboxLabel": "Вся сумма",
+    "action": "Перевести",
+    "toastSuccess": "Средства были успешно переведены"
+  },
+  "MODAL_EDIT_ADVERTISING_CAMPAIGN_LIMIT": {
+    "title": "Изменение лимита",
+    "selectedCampaignLabel": "Кампания",
+    "serviceLabel": "Площадка",
+    "spent": "Потрачено",
+    "currentTotalLimit": "Текущий общий лимит",
+    "newLimitInputLabel": "Введите новый общий лимит",
+    "action": "Изменить",
+    "toastSuccess": "Запрос на смену бюджетов лимита отправлен"
+  },
+  "MODAL_LIST_ADVERTISING_ACCOUNTS": {
+    "title": "Выберите рекламный аккаунт"
+  },
+  "MODAL_LIST_BUSINESS_ACCOUNTS": {
+    "title": "Выберите бизнес аккаунт",
+    "noAccountsErrorTitle": "Нет бизнес аккаунтов",
+    "noAccountsErrorSubtitle": "Добавленные аккаунты будут отображаться здесь",
+    "createNewAccount": "+ Создать новый",
+    "action": "Сменить"
+  },
+  "UTILS_MODAL_ACTIONS": {
+    "title": "Выберите действие"
+  },
+  "UTILS_MODAL_DATE_PICKER": {
+    "title": "Выберите дату",
+    "cancelText": "Назад",
+    "confirmText": "Выбрать"
+  },
+  "UTILS_MODAL_RADIO": {
+    "select": "Выбор"
+  },
+  "UTILS_MODAL_SELECT": {
+    "select": "Выбор"
+  },
+  "BOTTOM_TAB_BAR": {
+    "tabEvents": "События",
+    "tabStats": "Статистика",
+    "tabDocuments": "Документы",
+    "tabAdvertisment": "Реклама",
+    "tabHelpdesk": "Поддержка"
+  },
+  "DRAWER": {
+    "businessAccountsLink": "Бизнес аккаунты",
+    "cashbackAndCommission": "Кэшбэк и комиссия",
+    "additionalAccountsVK": "Доп. аккаунты VK",
+    "additionalAccountsVKAds": "Доп. аккаунты VK ads",
+    "editAccount": "Редактировать аккаунт",
+    "logOut": "Выйти",
+    "BALANCE": {
+      "balance": "Баланс, RUB",
+      "cashback": "Кэшбэк, RUB",
+      "deposit": "Пополнить баланс",
+      "depositAdvertisingAccounts": "Зачислить на рекламу"
+    }
+  },
+  "DOWNLOAD_SERVICE": {
+    "androidNotificationTitle": "Загрузка {filename}"
+  },
+  "OTHER": {
+    "UnexpectedNetworkError": "При выполнении сетевого запроса произошла неожиданная ошибка"
+  },
+  "TOASTS": {
+    "createAdvertismentAccountSuccess": "Запрос на добавление отправлен",
+    "createHelpdeskRequestSuccess": "Обращение успешно зарегистрировано"
+  }
+}
